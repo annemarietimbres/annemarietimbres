@@ -13,15 +13,7 @@ La philatélie est bien plus qu'un simple passe-temps pour moi, c'est une vérit
 
 Je vous invite à explorer avec moi cette fascinante aventure philatélique à travers le défilement de quelques-uns de mes timbres préférés ci-dessous. N'hésitez pas à me contacter pour échanger sur cette passion commune ! <br>
 
----
-<img src="./images/1803.jpg" width="100px">
-<img src="./images/41.jpg" width="100px">
-<img src="./images/1971.jpg" width="100px">
-<img src="./images/2632.jpg" width="100px">
-<img src="./images/19.jpg" width="100px">
-<img src="./images/PA 94.jpg" width="100px">
 
----
 <br>
 
 ## **Vous pouvez retrouver mon site philatélique ici** 👉🏼 <a href="https://lemondeparmestimbres.fr/index.html">mon site</a>
