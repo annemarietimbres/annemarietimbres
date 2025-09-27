@@ -3,7 +3,7 @@
 console.log("Hello World")
 ```
 
-<p>Je suis philatéliste mondiale depuis ma jeunesse, je veux à travers ce site, montrer ma collection personnelle. J'apprends à faire avec l'aide de l'IA et de mon fils aîné, qui est actuellement étudiant en développement informatique,mon site personnelle.</p>
+<p>Je suis philatéliste mondiale depuis ma jeunesse, je veux à travers ce site, montrer ma collection personnel. J'apprends à faire avec l'aide de l'IA et de mon fils aîné, qui est actuellement étudiant en développement informatique,mon site personnelle.</p>
 
 ### Bienvenue dans mon univers philatélique !
 
